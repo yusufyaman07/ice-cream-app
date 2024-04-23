@@ -1,44 +1,14 @@
-# Selectors
+# Icecream App
 
-- https://testing-library.com/docs/ecosystem-testing-library-selector/
 
-# Matchers
+This project is a simple application that offers users a variety of ice cream and sauce options and allows them to calculate the total price of the products they choose. Users can choose the ice cream flavors and toppings they want and instantly see the total order amount.
 
-- https://github.com/testing-library/jest-dom
 
-# Html Element Rolleri
+# Features 
 
-- https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles
+- Ice Cream Selection: You can choose from a variety of ice cream flavors.
+- Adding Sauce: You can choose a variety of sauces to add to your ice cream.
+- Price Calculation: Automatically calculates the price of the selected ice cream and sauces.
 
-# Kütüphaneler
-
-- axios@^0.27.2
-- @testing-library/user-event@14.0
-- json-server
-- bootstrap
-
-# Test Geliştirme Süreçleri
-
-## TDD (Test Driven Development)
-
-- red to green test
-- Önce özelliğin / bileşenin testi yazılır ardından özellik kodlanır
-- Artısı, testler bir yük gibi gelmiyor. Geliştirme sürecinin bir paraçası oluyor. Testleri yazarken dinamik yapının algoritmasınıda oluşturduğumuz için işlevi daha hızlı kodlyabiliyoruz
-
-## BDD (Behaviour Driven Development)
-
-- Önce özellik / bileşen geliştirlir sonra testleri yazılır.
-
-## FireEvent
-
-- rtl içerisinde gelen olay tetikleme methodu
-- gerçek kullanıcadan uzak tepkiler verdiği için yerini userEvente bıraktı
-- teitklenen olaylar gerçek bir insanın verebilceği tepkiden çok daha hızlı bir şekilde aniden tetikleniyor
-
-## UserEvent
-
-- bu yolu kullanmak için userEvent paketi indirilmeli
-- fireEvent'in modern daha gelişmiş verisyonu
-- tetiklediğimiz olaylar gerçek kulalnıcının yağıcağı gibi belirli bir gecikmenin ardından gerçAddşiyo
-- gecikme olduğunda async await ile kullanırız
-# ice-cream-app
+# Preview 
+![icecream](https://github.com/yusufyaman07/ice-cream-app/assets/148998418/3c15de73-4eac-4b63-a3d1-d0f4fd0e928c)
