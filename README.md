@@ -12,3 +12,6 @@ This project is a simple application that offers users a variety of ice cream an
 
 # Preview 
 ![icecream](https://github.com/yusufyaman07/ice-cream-app/assets/148998418/3c15de73-4eac-4b63-a3d1-d0f4fd0e928c)
+
+# For Questions And Job Offers
+- yusufyaman00000@gmail.com
